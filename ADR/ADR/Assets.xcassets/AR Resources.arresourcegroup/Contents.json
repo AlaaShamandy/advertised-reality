@@ -1,0 +1,29 @@
+{
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  },
+  "resources" : [
+    {
+      "filename" : "lulu-3.arreferenceimage"
+    },
+    {
+      "filename" : "lulu.arreferenceimage"
+    },
+    {
+      "filename" : "mac-3.arreferenceimage"
+    },
+    {
+      "filename" : "mac.arreferenceimage"
+    },
+    {
+      "filename" : "parking-2.arreferenceimage"
+    },
+    {
+      "filename" : "parking-3.arreferenceimage"
+    },
+    {
+      "filename" : "parking.arreferenceimage"
+    }
+  ]
+}
